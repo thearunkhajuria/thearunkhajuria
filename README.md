@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I am Arun!👋
+
+I am Arun Khajuria, currently pursuing my B.Tech degree in Computer Science and Engineering.
 
 <!--
 **thearunkhajuria/thearunkhajuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
